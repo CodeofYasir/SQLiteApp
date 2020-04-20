@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLite App</string>
+    <string name="show_values">Show Values</string>
+</resources>
